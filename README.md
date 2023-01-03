@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 👯 I’m looking to collaborate on **Future Projects**
+- 👯 I’m looking for help with contributing to open source projects
 
-- 👨‍💻 All of my projects are available at [Under Progress..........]
-
-- 💬 Ask me about **React, Front-End, Python, Django**
+- 💬 Ask me about Tech Related
 
 - 📫 How to reach me **mdarifattherusmani@gmail.com**
 

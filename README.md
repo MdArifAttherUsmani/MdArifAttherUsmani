@@ -13,7 +13,7 @@
 
 - 💬 Ask me about Tech Related
 
-- 📫 How to reach me **mdarifattherusmani@gmail.com**
+- 📫 How to reach me **arifusmani154@gmail.com**
 
 - ⚡ Fun fact **I think 🤔**
 
